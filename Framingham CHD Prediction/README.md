@@ -13,7 +13,8 @@ The dataset is publically available on the Kaggle website, and it is from an ong
 
 
 ### Behavioral
-* Education: 0: Less than High School and High School degrees, 1: College Degree and Higher
+* Education:  Some  High  School  (1),  High  School/GED 
+(2), Some college/Vocational School (3), College (4) 
 * Current Smoker: whether or not the patient is a current smoker (Nominal)
 * Cigs Per Day: the number of cigarettes that the person smoked on average in one day. (can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
 
